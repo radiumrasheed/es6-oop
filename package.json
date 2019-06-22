@@ -1,0 +1,24 @@
+{
+  "name": "es6-oop",
+  "version": "1.0.0",
+  "description": "OOP Implementation in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiumrasheed/es6-oop.git"
+  },
+  "keywords": [
+    "oop",
+    "es6",
+    "class"
+  ],
+  "author": "“Rasheed <“radiumrasheed@gmail.com”> (“http://twitter.com/radiumrasheed)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radiumrasheed/es6-oop/issues"
+  },
+  "homepage": "https://github.com/radiumrasheed/es6-oop#readme"
+}
